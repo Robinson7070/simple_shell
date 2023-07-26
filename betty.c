@@ -6,5 +6,5 @@
  */
 int main(void)
 {
-	printf("This is a beautiful code that passes Betty checks"\n)
+	printf("This is a beautiful code that passes Betty checks\n");
 }
